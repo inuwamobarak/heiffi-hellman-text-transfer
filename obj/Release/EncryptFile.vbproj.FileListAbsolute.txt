@@ -1,0 +1,8 @@
+C:\Users\BTECH\Downloads\EncryptFile_src(1)\bin\EncryptFile.exe
+C:\Users\BTECH\Downloads\EncryptFile_src(1)\bin\EncryptFile.xml
+C:\Users\BTECH\Downloads\EncryptFile_src(1)\obj\Release\EncryptFile.Form1.resources
+C:\Users\BTECH\Downloads\EncryptFile_src(1)\obj\Release\EncryptFile.frmMain.resources
+C:\Users\BTECH\Downloads\EncryptFile_src(1)\obj\Release\EncryptFile.SplashScreen1.resources
+C:\Users\BTECH\Downloads\EncryptFile_src(1)\obj\Release\EncryptFile.vbproj.GenerateResource.Cache
+C:\Users\BTECH\Downloads\EncryptFile_src(1)\obj\Release\EncryptFile.exe
+C:\Users\BTECH\Downloads\EncryptFile_src(1)\obj\Release\EncryptFile.xml
